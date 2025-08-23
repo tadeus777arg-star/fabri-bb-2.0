@@ -1,0 +1,17 @@
+{
+	id: "7d4ac431-ff3f-3f0b-8be5-35cee69540cb"
+	type: "player"
+	player_name: "Fabrioreos"
+	ranks: {
+		7d4ac431-ff3f-3f0b-8be5-35cee69540cb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Fabrioreos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

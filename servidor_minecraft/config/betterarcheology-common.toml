@@ -107,3 +107,8 @@
     # Allowed values: true, false - Default: true
     guardianFossilEffectsEnabled = true
 
+[Misc]
+    # En-/Disables the ability to shoot bombs from dispensers.
+    # Allowed values: true, false - Default: false
+    shootBombsFromDispensers = false
+
