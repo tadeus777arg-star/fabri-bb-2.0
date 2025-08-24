@@ -9253,6 +9253,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-08-24 20:23:14 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/giant_mushroom": {
     "criteria": {
       "giant_mushroom": "2025-08-24 17:51:13 +0000"
@@ -9991,6 +9997,12 @@
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-24 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-08-24 20:23:43 +0000"
     },
     "done": true
   },
@@ -12153,6 +12165,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-24 19:15:49 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-08-24 20:23:43 +0000"
     },
     "done": true
   },

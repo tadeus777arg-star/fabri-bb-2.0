@@ -2865,3 +2865,41 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:23:23] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 64, -59, 564, minecraft:overworld
 [20:23:24] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 69, -59, 561, minecraft:overworld
 [20:23:34] [Server thread/INFO]: [EMI] chocolinpy deleted 13 arrow
+[20:24:10] [Server thread/INFO]: [EMI] chocolinpy deleted 64 cobbled_deepslate
+[20:27:01] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to 202.500000, 64.500000, 1081.500000]
+[20:28:26] [Server thread/WARN]: Giant Geckotoa (vehicle of chocolinpy) moved wrongly! 0.27250938813278935
+[20:28:26] [Server thread/WARN]: Giant Geckotoa (vehicle of chocolinpy) moved wrongly! 0.8024589047723225
+[20:31:50] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to -201.500000, 63.500000, 995.500000]
+[20:32:37] [Server thread/INFO]: Fabrioreos was blown up by Creeper
+[20:32:37] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.32.37.dat
+[20:32:37] [Server thread/INFO]: chocolinpy lost connection: Disconnected
+[20:32:37] [Server thread/INFO]: chocolinpy left the game
+[20:32:37] [Server thread/INFO]: remove player wand
+[20:32:37] [Server thread/INFO]: Updating all forceload tickets for 034783f3-fbfc-3708-91b0-59525927d190
+[20:32:37] [Server thread/WARN]: Fabrioreos moved wrongly!
+[20:32:39] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:33:01] [Server thread/INFO]: [Handshake] Sending channel query
+[20:33:02] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[20:33:02] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[20:33:02] [Server thread/INFO]: chocolinpy[/10.147.20.37:59949] logged in with entity id 125949 at (-311.8480177268378, 63.0, 1007.5150461670404)
+[20:33:02] [Server thread/INFO]: Sending server config values to client
+[20:33:02] [Server thread/INFO]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[20:33:02] [Server thread/INFO]: Loading config from file...
+[20:33:02] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[20:33:02] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:33:02] [Server thread/INFO]: chocolinpy joined the game
+[20:33:02] [Server thread/INFO]: Loading Configs for Sortilege
+[20:33:02] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[20:33:02] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[20:33:02] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[20:33:02] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:33:02] [Server thread/INFO]: PLAYER_JOIN
+[20:33:02] [Server thread/INFO]: add_player wand
+[20:33:02] [Server thread/INFO]: config sent
+[20:33:02] [Server thread/INFO]: Updating all forceload tickets for 034783f3-fbfc-3708-91b0-59525927d190
+[20:33:04] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[20:33:05] [Netty Epoll Server IO #3/INFO]: Channel update: chocolinpy -> default
+[20:33:05] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player chocolinpy. Claiming: GRAVE / Robbing: INVENTORY
+[20:33:07] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:33:45] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null

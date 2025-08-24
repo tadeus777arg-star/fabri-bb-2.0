@@ -9917,6 +9917,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-08-24 20:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-08-24 18:38:52 +0000"
@@ -12242,6 +12248,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-24 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-08-24 20:23:23 +0000"
     },
     "done": true
   },
