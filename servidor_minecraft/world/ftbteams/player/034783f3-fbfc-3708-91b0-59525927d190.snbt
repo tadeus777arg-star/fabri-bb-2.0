@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "chocolinpy"
 		"ftbteams:description": ""
-		"ftbteams:color": "#5995FF"
+		"ftbteams:color": "#FF5969"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

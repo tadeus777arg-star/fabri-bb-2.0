@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Fabrioreos"
 		"ftbteams:description": ""
-		"ftbteams:color": "#E059FF"
+		"ftbteams:color": "#59ABFF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
