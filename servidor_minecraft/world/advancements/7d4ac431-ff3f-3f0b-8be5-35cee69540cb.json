@@ -8727,6 +8727,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-08-24 18:48:38 +0000"
@@ -8739,6 +8745,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_slab": {
     "criteria": {
       "has_blunite": "2025-08-24 19:15:31 +0000"
@@ -8748,6 +8760,12 @@
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-24 18:48:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -8859,6 +8877,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-24 18:48:38 +0000"
@@ -8958,6 +8982,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/glowstone": "2025-08-24 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -9108,6 +9138,12 @@
   "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 18:48:38 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -9507,6 +9543,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-24 19:56:38 +0000"
@@ -9534,6 +9576,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -9603,6 +9651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-08-24 19:55:45 +0000"
@@ -9612,6 +9666,12 @@
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-08-24 18:48:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -9684,6 +9744,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
@@ -9753,6 +9819,12 @@
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-24 19:16:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -9846,9 +9918,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2025-08-24 18:34:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -9903,6 +9987,18 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-24 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/copper_tea_kettle": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -10086,6 +10182,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/copper_plate": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2025-08-24 18:30:52 +0000"
@@ -10098,6 +10200,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/lime_sleeping_bag": {
     "criteria": {
       "has_lime_wool": "2025-08-24 20:38:13 +0000"
@@ -10107,6 +10215,12 @@
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-08-24 19:55:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -10434,6 +10548,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/wire_mill/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2025-08-24 18:30:57 +0000"
@@ -10590,6 +10710,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
     "criteria": {
       "has_moss_block": "2025-08-24 19:51:42 +0000"
@@ -10674,6 +10800,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_mace": {
     "criteria": {
       "has_iron_nugget": "2025-08-24 18:32:42 +0000"
@@ -10749,6 +10881,12 @@
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -10845,6 +10983,12 @@
   "mcda:recipes/base_armors/mercenary_armor_boots": {
     "criteria": {
       "has_iron_boots": "2025-08-24 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -10974,6 +11118,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:48 +0000"
@@ -10998,6 +11148,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/peridot_dust": {
     "criteria": {
       "has_tag_c_peridot_gems": "2025-08-24 18:30:52 +0000"
@@ -11007,6 +11163,12 @@
   "techreborn:recipes/blast_furnace/iron_ingot": {
     "criteria": {
       "has_iron_bars": "2025-08-24 18:40:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
+    "criteria": {
+      "has_copper": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -11145,6 +11307,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -11424,6 +11592,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/glass_vial": {
     "criteria": {
       "has_item": "2025-08-24 18:15:48 +0000"
@@ -11445,6 +11619,12 @@
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
+    "criteria": {
+      "has_copper": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -11499,6 +11679,12 @@
   "techreborn:recipes/blast_furnace/tungsten_ingot": {
     "criteria": {
       "has_tungsten_ore": "2025-08-24 19:08:03 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -11700,6 +11886,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "indrev:nikolite": {
     "criteria": {
       "checkInv": "2025-08-24 19:00:30 +0000"
@@ -11856,6 +12054,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_pan": {
+    "criteria": {
+      "has_copper_block": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-24 19:56:38 +0000"
@@ -11970,6 +12174,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
+    "criteria": {
+      "has_copper": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-24 19:56:38 +0000"
@@ -12072,6 +12282,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 18:48:38 +0000"
@@ -12135,6 +12351,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_spider": {
     "criteria": {
       "has_core_specification_item": "2025-08-24 18:37:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall": {
+    "criteria": {
+      "has_copper": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -12360,6 +12582,12 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:44:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-24 19:56:38 +0000"
@@ -12405,6 +12633,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
@@ -12459,6 +12693,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-24 19:55:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-08-24 20:44:20 +0000"
     },
     "done": true
   },
