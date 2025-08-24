@@ -9044,6 +9044,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-24 20:11:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/drain": {
     "criteria": {
       "has_iron_bars": "2025-08-24 18:40:46 +0000"
@@ -10253,6 +10259,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-24 20:11:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/polished_rhyolite": {
     "criteria": {
       "has_item": "2025-08-24 19:49:12 +0000"
@@ -10772,6 +10784,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-24 20:11:04 +0000"
     },
     "done": true
   },
@@ -12152,6 +12170,12 @@
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-24 20:11:04 +0000"
     },
     "done": true
   },

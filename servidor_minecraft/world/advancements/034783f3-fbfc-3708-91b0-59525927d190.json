@@ -8953,6 +8953,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2025-08-24 20:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-24 17:17:46 +0000"
@@ -9538,6 +9544,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-08-24 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-24 20:10:18 +0000"
     },
     "done": true
   },
@@ -10180,6 +10192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-24 20:10:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
@@ -10339,6 +10357,12 @@
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2025-08-24 20:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-24 20:10:18 +0000"
     },
     "done": true
   },
@@ -10507,6 +10531,12 @@
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-08-24 20:10:18 +0000"
     },
     "done": true
   },
@@ -10783,6 +10813,12 @@
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-24 19:41:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-08-24 20:10:18 +0000"
     },
     "done": true
   },
