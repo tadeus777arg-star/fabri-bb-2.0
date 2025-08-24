@@ -2295,3 +2295,14 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:39:58] [Server thread/INFO]: chocolinpy has made the advancement [Full Moon in a Pocket]
 [19:39:59] [Server thread/INFO]: <Fabrioreos> zzzzzzz
 [19:40:08] [Server thread/INFO]: <chocolinpy> paga
+[19:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:43:49] [Server thread/INFO]: [EMI] chocolinpy deleted 1 iron_leggings
+[19:46:23] [Server thread/INFO]: chocolinpy has made the advancement [Source of Evil]
+[19:47:57] [Server thread/INFO]: [chocolinpy: Teleported Fabrioreos to chocolinpy]
+[19:50:34] [Server thread/INFO]: [EMI] chocolinpy deleted 3 cobweb
+[19:50:35] [Server thread/INFO]: [EMI] chocolinpy deleted 1 cobbled_deepslate
+[19:51:57] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[19:51:57] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-19.51.57.dat
+[19:52:01] [Server thread/INFO]: <chocolinpy> paga
+[19:52:03] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[19:52:04] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
