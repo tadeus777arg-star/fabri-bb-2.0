@@ -2961,3 +2961,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:52:45] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
 [20:52:47] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 215, 64, 949, minecraft:overworld
 [20:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[20:57:15] [Server thread/INFO]: Fabrioreos was shot by Skeleton
+[20:57:15] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.57.15.dat
+[20:57:17] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:58:00] [Server thread/INFO]: Fabrioreos has made the advancement [Mine Cells]
+[20:58:23] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 0, 63, 681, minecraft:overworld
+[21:03:54] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[21:04:02] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]

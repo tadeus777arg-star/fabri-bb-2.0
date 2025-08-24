@@ -6725,7 +6725,8 @@
       "minecraft:spider": "2025-08-24 02:46:35 +0000",
       "minecraft:creeper": "2025-08-24 02:47:45 +0000",
       "minecraft:cave_spider": "2025-08-24 18:36:37 +0000",
-      "minecraft:zombie": "2025-08-24 02:48:59 +0000"
+      "minecraft:zombie": "2025-08-24 02:48:59 +0000",
+      "minecraft:drowned": "2025-08-24 20:57:14 +0000"
     },
     "done": false
   },
@@ -8625,6 +8626,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-24 19:56:38 +0000"
@@ -9075,6 +9082,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 18:48:38 +0000"
@@ -9279,6 +9292,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-08-24 19:49:02 +0000"
@@ -9294,6 +9313,12 @@
   "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-08-24 18:37:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 20:57:06 +0000"
     },
     "done": true
   },
@@ -9591,6 +9616,12 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-08-24 20:58:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-24 19:15:48 +0000"
@@ -9600,6 +9631,12 @@
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-08-24 20:58:00 +0000"
     },
     "done": true
   },
@@ -9806,6 +9843,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "calamari": "2025-08-24 20:57:06 +0000",
       "glowing_calamari": "2025-08-24 19:06:17 +0000"
     },
     "done": false
@@ -10176,6 +10214,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-24 19:15:48 +0000"
@@ -10320,6 +10364,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-24 19:56:38 +0000"
@@ -10353,6 +10403,12 @@
   "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 18:48:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 20:57:06 +0000"
     },
     "done": true
   },
@@ -10494,6 +10550,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:48 +0000"
@@ -10599,6 +10661,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-24 20:57:06 +0000"
     },
     "done": true
   },
@@ -10815,6 +10883,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-24 20:57:06 +0000"
     },
     "done": true
   },
@@ -11688,6 +11762,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 18:48:38 +0000"
@@ -11832,6 +11912,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-24 19:56:38 +0000"
@@ -11946,6 +12032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 20:57:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-24 19:56:38 +0000"
@@ -12015,6 +12107,12 @@
   "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 18:48:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 20:57:06 +0000"
     },
     "done": true
   },
@@ -12237,6 +12335,12 @@
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2025-08-24 18:32:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-24 20:57:06 +0000"
     },
     "done": true
   },
