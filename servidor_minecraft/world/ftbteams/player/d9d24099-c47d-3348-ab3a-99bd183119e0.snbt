@@ -1,0 +1,17 @@
+{
+	id: "d9d24099-c47d-3348-ab3a-99bd183119e0"
+	type: "player"
+	player_name: "FRANCOPR10"
+	ranks: {
+		d9d24099-c47d-3348-ab3a-99bd183119e0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FRANCOPR10"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5977FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
