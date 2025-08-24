@@ -8515,6 +8515,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-08-24 18:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
@@ -8569,6 +8575,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-08-24 18:28:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-08-24 18:28:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
@@ -8584,6 +8602,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-08-24 18:28:28 +0000"
     },
     "done": true
   },
@@ -8617,6 +8641,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-08-24 18:28:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-08-24 18:28:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
@@ -8632,6 +8668,18 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-08-24 18:28:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-08-24 18:28:41 +0000"
     },
     "done": true
   },
@@ -8656,6 +8704,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-08-24 18:28:41 +0000"
     },
     "done": true
   },
