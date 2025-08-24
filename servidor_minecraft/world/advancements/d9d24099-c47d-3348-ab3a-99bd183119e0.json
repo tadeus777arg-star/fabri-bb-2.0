@@ -3863,6 +3863,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-24 04:29:27 +0000",
       "minecraft:spider": "2025-08-24 21:48:36 +0000",
+      "minecraft:wither_skeleton": "2025-08-24 22:05:50 +0000",
       "minecraft:husk": "2025-08-24 04:05:52 +0000",
       "minecraft:cave_spider": "2025-08-24 04:18:31 +0000",
       "minecraft:zombie": "2025-08-24 03:41:17 +0000"
@@ -8286,6 +8287,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-24 22:10:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/gold_plate_from_block": {
     "criteria": {
       "has_gold_block": "2025-08-24 21:45:47 +0000"
@@ -8313,6 +8320,12 @@
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-08-24 21:51:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-08-24 22:09:05 +0000"
     },
     "done": true
   },
@@ -8376,6 +8389,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-24 22:10:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_item": "2025-08-24 21:51:17 +0000"
@@ -8385,6 +8404,12 @@
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2025-08-24 21:51:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-24 22:09:05 +0000"
     },
     "done": true
   },
@@ -8496,6 +8521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-24 22:09:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2025-08-24 21:51:17 +0000"
@@ -8517,6 +8548,12 @@
   "bewitchment:recipes/decorations/juniper_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-24 21:45:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone_stairs": "2025-08-24 22:02:56 +0000"
     },
     "done": true
   },
@@ -8547,6 +8584,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-08-24 21:51:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-24 22:10:22 +0000"
     },
     "done": true
   },
