@@ -2278,3 +2278,14 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:07:28] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
 [19:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [19:09:55] [Server thread/INFO]: Fabrioreos has made the advancement [Full Moon in a Pocket]
+[19:13:42] [Server thread/INFO]: Fabrioreos was shot by Skeleton
+[19:13:42] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-19.13.42.dat
+[19:13:43] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[19:13:47] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[19:14:43] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[19:17:29] [Server thread/INFO]: [EMI] chocolinpy deleted 39 cobbled_deepslate
+[19:17:30] [Server thread/INFO]: [EMI] chocolinpy deleted 1 dripstone_block
+[19:18:05] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 197, -41, 825, minecraft:overworld
+[19:19:47] [Server thread/INFO]: chocolinpy has made the advancement [The Beginning]
+[19:20:39] [Server thread/INFO]: chocolinpy has made the advancement [Tech Reborn]
+[19:21:40] [Server thread/INFO]: [EMI] chocolinpy deleted 6 cobbled_deepslate
