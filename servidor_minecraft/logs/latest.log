@@ -2968,3 +2968,35 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:58:23] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 0, 63, 681, minecraft:overworld
 [21:03:54] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
 [21:04:02] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[21:12:08] [Server thread/INFO]: <Fabrioreos> zzzz
+[21:12:10] [Server thread/INFO]: <Fabrioreos> zzz
+[21:12:10] [Server thread/INFO]: <Fabrioreos> zz
+[21:12:11] [Server thread/INFO]: <Fabrioreos> z
+[21:12:15] [Server thread/INFO]: <chocolinpy> sexo
+[21:12:16] [Server thread/INFO]: <chocolinpy> rico
+[21:13:28] [Server thread/INFO]: [EMI] chocolinpy deleted 8 iron_nugget
+[21:14:59] [Server thread/INFO]: [Handshake] Sending channel query
+[21:14:59] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[21:14:59] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[21:14:59] [Server thread/INFO]: Oni_B0i[/10.147.20.132:62140] logged in with entity id 144959 at (-40.5, 72.0, -88.5)
+[21:14:59] [Server thread/INFO]: Sending server config values to client
+[21:14:59] [Server thread/INFO]: Syncing config to Oni_B0i (24756c8f-2b1f-3c84-9fc0-3f07459df732)
+[21:14:59] [Server thread/INFO]: Loading config from file...
+[21:14:59] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[21:14:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:14:59] [Server thread/INFO]: Oni_B0i joined the game
+[21:14:59] [Server thread/INFO]: Loading Configs for Sortilege
+[21:14:59] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[21:14:59] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[21:14:59] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[21:14:59] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:15:00] [Server thread/INFO]: Updating all forceload tickets for 24756c8f-2b1f-3c84-9fc0-3f07459df732
+[21:15:00] [Server thread/INFO]: PLAYER_JOIN
+[21:15:00] [Server thread/INFO]: add_player wand
+[21:15:00] [Server thread/INFO]: config sent
+[21:15:00] [Server thread/INFO]: Oni_B0i has made the advancement [Mobs of Mythology]
+[21:15:02] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[21:15:08] [Netty Epoll Server IO #2/INFO]: Channel update: Oni_B0i -> default
+[21:15:08] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Oni_B0i. Claiming: GRAVE / Robbing: INVENTORY
+[21:15:11] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Oni_B0i accepted server config.
+[21:15:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind

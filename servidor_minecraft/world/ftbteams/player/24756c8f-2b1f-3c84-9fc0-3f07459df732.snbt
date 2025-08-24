@@ -1,0 +1,17 @@
+{
+	id: "24756c8f-2b1f-3c84-9fc0-3f07459df732"
+	type: "player"
+	player_name: "Oni_B0i"
+	ranks: {
+		24756c8f-2b1f-3c84-9fc0-3f07459df732: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Oni_B0i"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

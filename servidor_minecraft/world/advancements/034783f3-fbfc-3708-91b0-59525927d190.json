@@ -12348,6 +12348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mauve_stairs": {
     "criteria": {
       "has_mauve_planks": "2025-08-24 20:45:53 +0000"
@@ -12357,6 +12363,12 @@
   "regions_unexplored:recipes/redstone/mauve_door": {
     "criteria": {
       "has_mauve_planks": "2025-08-24 20:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
     },
     "done": true
   },
@@ -12372,9 +12384,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/mauve_fence": {
     "criteria": {
       "has_mauve_planks": "2025-08-24 20:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
     },
     "done": true
   },
@@ -12396,6 +12420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "mauve_log": "2025-08-24 20:44:17 +0000"
@@ -12414,9 +12444,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/mauve_button": {
     "criteria": {
       "has_mauve_planks": "2025-08-24 20:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
     },
     "done": true
   },
@@ -12432,9 +12480,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/mauve_trapdoor": {
     "criteria": {
       "has_mauve_planks": "2025-08-24 20:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-24 21:08:53 +0000"
     },
     "done": true
   },
