@@ -24,18 +24,6 @@
     },
     "done": true
   },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-08-24 21:15:01 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-08-24 21:15:01 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/netherite_diamond_block": {
     "criteria": {
       "has_ingredients": "2025-08-24 21:15:00 +0000"
@@ -59,12 +47,6 @@
       "always": "2025-08-24 21:15:00 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "bumbling_beepartments": "2025-08-24 21:15:01 +0000"
-    },
-    "done": false
   },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
@@ -192,12 +174,6 @@
   "techreborn:recipes/centrifuge/helium_cell": {
     "criteria": {
       "has_helium": "2025-08-24 21:15:00 +0000"
-    },
-    "done": true
-  },
-  "beachparty:main/root": {
-    "criteria": {
-      "example_criterion": "2025-08-24 21:15:01 +0000"
     },
     "done": true
   },
@@ -461,12 +437,6 @@
     },
     "done": true
   },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-08-24 21:15:01 +0000"
-    },
-    "done": true
-  },
   "seasonsextras:recipes/air_conditioning": {
     "criteria": {
       "has_furnace": "2025-08-24 21:15:00 +0000"
@@ -521,6 +491,48 @@
     "criteria": {
       "has_lithium": "2025-08-24 21:15:00 +0000",
       "has_wolframium": "2025-08-24 21:15:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-08-24 21:15:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-08-24 21:15:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-08-24 21:15:01 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-08-24 21:15:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-08-24 21:15:01 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-08-24 21:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-24 21:24:55 +0000"
     },
     "done": true
   },
