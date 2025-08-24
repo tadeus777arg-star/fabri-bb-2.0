@@ -5091,6 +5091,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-08-24 18:35:04 +0000",
+      "apple": "2025-08-24 20:35:58 +0000",
       "bread": "2025-08-24 01:17:20 +0000"
     },
     "done": false
@@ -8960,6 +8961,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-08-24 20:31:43 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-08-24 19:59:19 +0000"
@@ -9191,6 +9198,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-24 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-08-24 20:38:13 +0000"
     },
     "done": true
   },
@@ -9797,6 +9810,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-08-24 20:36:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-24 19:56:38 +0000"
@@ -9854,6 +9873,12 @@
   "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-08-24 20:38:13 +0000"
     },
     "done": true
   },
@@ -10070,6 +10095,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/lime_sleeping_bag": {
+    "criteria": {
+      "has_lime_wool": "2025-08-24 20:38:13 +0000"
     },
     "done": true
   },
@@ -10355,6 +10386,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-08-24 20:38:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
     "criteria": {
       "has_peridot_gem": "2025-08-24 18:30:52 +0000"
@@ -10382,6 +10419,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-24 18:48:38 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-24 20:36:06 +0000"
     },
     "done": true
   },
@@ -10616,6 +10659,12 @@
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-24 18:45:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-24 20:36:13 +0000"
     },
     "done": true
   },
@@ -11153,6 +11202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-08-24 20:38:13 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/red_coffin": {
     "criteria": {
       "has_item": "2025-08-24 20:00:16 +0000"
@@ -11213,6 +11268,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-24 20:36:06 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-24 19:56:38 +0000"
@@ -11222,6 +11283,12 @@
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-08-24 19:37:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-08-24 20:38:13 +0000"
     },
     "done": true
   },
@@ -11474,6 +11541,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_sheet": {
+    "criteria": {
+      "has_lime_sheet": "2025-08-24 20:38:13 +0000"
     },
     "done": true
   },
@@ -11795,6 +11868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-24 20:36:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
     "criteria": {
       "has_quartz_block": "2025-08-24 19:33:33 +0000"
@@ -11864,6 +11943,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/lime_flag": {
+    "criteria": {
+      "has_lime_flag": "2025-08-24 20:38:13 +0000"
     },
     "done": true
   },
@@ -12011,6 +12096,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/lime_cushion": {
+    "criteria": {
+      "has_lime_cushion": "2025-08-24 20:38:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2025-08-24 18:35:56 +0000"
@@ -12080,6 +12171,12 @@
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2025-08-24 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lime_bed_from_wool": {
+    "criteria": {
+      "has_lime_wool": "2025-08-24 20:38:13 +0000"
     },
     "done": true
   },
