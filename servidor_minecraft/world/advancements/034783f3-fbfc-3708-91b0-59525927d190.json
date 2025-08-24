@@ -8749,6 +8749,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-08-24 19:27:51 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-08-24 17:30:09 +0000"
@@ -8776,6 +8782,12 @@
   "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-24 19:27:51 +0000"
     },
     "done": true
   },
@@ -9007,6 +9019,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-08-24 19:23:02 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 17:59:05 +0000"
@@ -9064,6 +9082,12 @@
   "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-24 19:22:17 +0000"
     },
     "done": true
   },
@@ -9313,6 +9337,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-08-24 19:27:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-08-24 18:27:09 +0000"
@@ -9424,6 +9454,12 @@
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-08-24 19:27:51 +0000"
     },
     "done": true
   },
@@ -9673,6 +9709,12 @@
   "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-08-24 19:23:02 +0000"
     },
     "done": true
   },
@@ -9982,6 +10024,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-08-24 19:29:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
     "criteria": {
       "has_diamond_pickaxe": "2025-08-24 18:00:06 +0000"
@@ -10150,6 +10198,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-08-24 19:23:02 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 17:59:05 +0000"
@@ -10183,6 +10237,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-08-24 19:27:51 +0000"
     },
     "done": true
   },
@@ -10231,6 +10291,12 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
     "criteria": {
       "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-24 19:23:22 +0000"
     },
     "done": true
   },
@@ -10486,6 +10552,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-24 19:23:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
     "criteria": {
       "has_copper_ingot": "2025-08-24 17:55:52 +0000"
@@ -10573,6 +10645,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-08-24 19:23:02 +0000"
     },
     "done": true
   },
@@ -10804,6 +10882,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-08-24 19:23:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-24 18:09:52 +0000"
@@ -10918,6 +11002,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/tungsten_ingot": {
+    "criteria": {
+      "has_tungsten_ore": "2025-08-24 19:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-24 18:46:43 +0000"
@@ -10951,6 +11041,12 @@
   "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-24 19:15:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-08-24 19:23:02 +0000"
     },
     "done": true
   },
@@ -11260,6 +11356,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-08-24 19:27:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-08-24 18:23:05 +0000"
@@ -11341,9 +11443,10 @@
   "techreborn:root": {
     "criteria": {
       "crit_2": "2025-08-24 18:05:53 +0000",
-      "crit_1": "2025-08-24 18:12:09 +0000"
+      "crit_1": "2025-08-24 18:12:09 +0000",
+      "crit_0": "2025-08-24 19:20:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
     "criteria": {
@@ -11492,6 +11595,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-24 19:15:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-08-24 19:20:39 +0000"
     },
     "done": true
   },
