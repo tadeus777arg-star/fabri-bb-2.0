@@ -7574,12 +7574,14 @@
   },
   "beachparty:main/get_all_artifacts": {
     "criteria": {
+      "beachparty:beach_ball": "2025-08-24 17:35:49 +0000",
       "beachparty:rubber_ring_pelican": "2025-08-24 02:55:57 +0000"
     },
     "done": false
   },
   "beachparty:main/hoarder": {
     "criteria": {
+      "beachparty:beach_ball": "2025-08-24 17:35:49 +0000",
       "beachparty:rubber_ring_pelican": "2025-08-24 02:55:57 +0000"
     },
     "done": false
@@ -8742,9 +8744,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-08-24 17:35:20 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-08-24 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-08-24 17:35:20 +0000"
     },
     "done": true
   },

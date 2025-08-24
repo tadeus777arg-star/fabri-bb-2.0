@@ -2173,3 +2173,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [17:31:29] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
 [17:32:06] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [17:32:06] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[17:41:43] [Server thread/INFO]: Fabrioreos has made the advancement [Cover Me with Diamonds]
+[17:46:30] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[17:46:33] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]

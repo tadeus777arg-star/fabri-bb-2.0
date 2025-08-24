@@ -6285,14 +6285,16 @@
   "beachparty:main/get_all_artifacts": {
     "criteria": {
       "beachparty:swim_wings": "2025-08-24 02:38:56 +0000",
-      "beachparty:beach_ball": "2025-08-24 02:24:39 +0000"
+      "beachparty:beach_ball": "2025-08-24 02:24:39 +0000",
+      "beachparty:rubber_ring_pelican": "2025-08-24 17:42:55 +0000"
     },
     "done": false
   },
   "beachparty:main/hoarder": {
     "criteria": {
       "beachparty:swim_wings": "2025-08-24 02:38:56 +0000",
-      "beachparty:beach_ball": "2025-08-24 02:24:39 +0000"
+      "beachparty:beach_ball": "2025-08-24 02:24:39 +0000",
+      "beachparty:rubber_ring_pelican": "2025-08-24 17:42:55 +0000"
     },
     "done": false
   },
@@ -8153,15 +8155,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-24 17:34:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_jam": {
+    "criteria": {
+      "has_cherry": "2025-08-24 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_pie": {
+    "criteria": {
+      "has_cherry": "2025-08-24 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/cornflower": {
+    "criteria": {
+      "has_flower": "2025-08-24 17:34:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-24 17:32:13 +0000"
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-08-24 17:34:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-24 17:32:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-24 17:41:43 +0000"
     },
     "done": true
   },
@@ -8174,6 +8212,12 @@
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-08-24 17:32:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-24 17:37:45 +0000"
     },
     "done": true
   },
@@ -8219,6 +8263,24 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-24 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-24 17:34:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-08-24 17:48:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/rubeus_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-24 17:32:13 +0000"
@@ -8231,9 +8293,63 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-24 17:34:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_sapling": {
+    "criteria": {
+      "has_cherry": "2025-08-24 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-08-24 17:34:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-24 17:32:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-24 17:34:53 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-08-24 17:34:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-08-24 17:34:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2025-08-24 17:46:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-24 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2025-08-24 17:46:48 +0000"
     },
     "done": true
   },
