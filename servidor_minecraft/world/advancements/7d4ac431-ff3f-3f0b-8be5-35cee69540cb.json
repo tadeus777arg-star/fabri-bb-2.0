@@ -8755,6 +8755,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-08-24 21:32:02 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-08-24 20:44:20 +0000"
@@ -8851,6 +8857,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-08-24 19:55:45 +0000"
@@ -8860,6 +8872,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
     },
     "done": true
   },
@@ -9229,6 +9247,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-24 21:31:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_potion": {
     "criteria": {
       "has_potion": "2025-08-24 18:35:44 +0000"
@@ -9274,6 +9298,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-24 18:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-24 21:31:58 +0000"
     },
     "done": true
   },
@@ -9352,6 +9382,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-24 21:31:58 +0000"
     },
     "done": true
   },
@@ -9490,6 +9526,12 @@
   "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 19:32:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
     },
     "done": true
   },
@@ -9769,6 +9811,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-24 21:31:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-08-24 19:59:19 +0000"
@@ -9956,6 +10004,12 @@
   "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
     },
     "done": true
   },
@@ -10325,6 +10379,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-08-24 18:35:37 +0000"
@@ -10382,6 +10442,12 @@
   "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-24 21:31:58 +0000"
     },
     "done": true
   },
@@ -10715,9 +10781,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-24 21:31:58 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-08-24 19:49:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
     },
     "done": true
   },
@@ -10766,6 +10844,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
     },
     "done": true
   },
@@ -11309,6 +11393,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-24 19:56:38 +0000"
@@ -11366,6 +11456,12 @@
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_dripstone_corner_trim": "2025-08-24 19:16:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-24 21:31:58 +0000"
     },
     "done": true
   },
@@ -12095,6 +12191,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-08-24 19:55:51 +0000"
@@ -12746,6 +12848,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-24 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-24 21:33:37 +0000"
     },
     "done": true
   },
