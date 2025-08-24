@@ -10517,6 +10517,12 @@
     },
     "done": true
   },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea": {
+    "criteria": {
+      "has_item": "2025-08-24 20:03:21 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/moai": {
     "criteria": {
       "has_tuff": "2025-08-24 18:48:38 +0000"
@@ -11120,6 +11126,12 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-24 19:56:38 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/red_coffin": {
+    "criteria": {
+      "has_item": "2025-08-24 20:00:16 +0000"
     },
     "done": true
   },

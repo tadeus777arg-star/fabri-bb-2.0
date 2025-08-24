@@ -2368,3 +2368,215 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:02:58] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.02.58.dat
 [20:02:59] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
 [20:03:02] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:03:05] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 50, -54, 550, minecraft:overworld
+[20:03:23] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:03:23] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.03.23.dat
+[20:03:24] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:03:28] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 55, -58, 556, minecraft:overworld
+[20:03:34] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:03:34] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.03.34.dat
+[20:03:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:03:46] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 73, -58, 564, minecraft:overworld
+[20:03:49] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:03:49] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.03.49.dat
+[20:03:50] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:03:57] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 70, -58, 559, minecraft:overworld
+[20:03:58] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:03:58] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.03.58.dat
+[20:03:59] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:04:04] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:04:04] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.04.04.dat
+[20:04:06] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:04:08] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:04:17] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 71, -59, 558, minecraft:overworld
+[20:04:20] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:04:20] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.04.20.dat
+[20:04:22] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:04:30] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 77, -58, 562, minecraft:overworld
+[20:04:33] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:04:33] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:04:35] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:04:36] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:04:39] [Server thread/INFO]: chocolinpy was killed trying to hurt Void Blossom
+[20:04:39] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:04:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:04:42] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:04:47] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:04:47] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.04.47.dat
+[20:04:48] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:04:55] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 72, -58, 561, minecraft:overworld
+[20:04:56] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:04:56] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:04:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:04:58] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:05:05] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:05:05] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.05.05.dat
+[20:05:06] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:05:12] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:05:12] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:05:14] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:05:14] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 73, -58, 561, minecraft:overworld
+[20:05:20] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:05:20] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:05:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5605ms or 112 ticks behind
+[20:05:20] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:05:27] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:05:27] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.05.27.dat
+[20:05:28] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:05:34] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:05:34] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 62, -58, 558, minecraft:overworld
+[20:05:35] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:05:36] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:05:40] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 83, -58, 554, minecraft:overworld
+[20:05:41] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:05:41] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.05.41.dat
+[20:05:43] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:05:48] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 61, -59, 560, minecraft:overworld
+[20:05:49] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:05:49] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.05.49.dat
+[20:05:51] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:05:51] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:05:52] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:05:54] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:05:56] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 61, -58, 559, minecraft:overworld
+[20:06:01] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:06:01] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.06.01.dat
+[20:06:03] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:06:07] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 57, -45, 553, minecraft:overworld
+[20:06:09] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:06:09] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:06:10] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:06:10] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.06.10.dat
+[20:06:10] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:06:12] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:06:13] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:06:17] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 54, -52, 549, minecraft:overworld
+[20:06:19] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 74, -58, 563, minecraft:overworld
+[20:06:35] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:06:35] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.06.35.dat
+[20:06:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:06:44] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 64, -59, 559, minecraft:overworld
+[20:07:09] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[20:07:10] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:07:10] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.07.10.dat
+[20:07:11] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:07:12] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[20:07:13] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[20:07:20] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 60, -59, 572, minecraft:overworld
+[20:07:23] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:07:23] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.07.23.dat
+[20:07:24] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:07:25] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[20:07:30] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 65, -58, 569, minecraft:overworld
+[20:07:34] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[20:07:37] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:07:37] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.07.37.dat
+[20:07:38] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:07:44] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 62, -59, 562, minecraft:overworld
+[20:07:48] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[20:07:49] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:07:49] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.07.49.dat
+[20:07:51] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:07:58] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 76, -59, 562, minecraft:overworld
+[20:08:06] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:08:06] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.08.06.dat
+[20:08:08] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:08:12] [Server thread/INFO]: chocolinpy has made the advancement [Take Aim]
+[20:08:14] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 62, -59, 565, minecraft:overworld
+[20:08:18] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:08:18] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.08.18.dat
+[20:08:20] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:08:22] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:08:30] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 49, -53, 543, minecraft:overworld
+[20:08:38] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:08:38] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.08.38.dat
+[20:08:39] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:08:47] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:08:47] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.08.47.dat
+[20:08:47] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 73, -58, 565, minecraft:overworld
+[20:08:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:08:50] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:09:00] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 72, -53, 541, minecraft:overworld
+[20:09:11] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:09:11] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.09.11.dat
+[20:09:12] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:09:15] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:09:15] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.09.15.dat
+[20:09:15] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20:09:15] [Netty Epoll Server IO #3/ERROR]: Combo count: 16 is dual wielding: false
+[20:09:15] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[20:09:15] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[20:09:15] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[20:09:17] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:09:19] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:09:22] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 81, -58, 559, minecraft:overworld
+[20:09:23] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 66, -57, 567, minecraft:overworld
+[20:09:30] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:09:30] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.09.30.dat
+[20:09:30] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:09:30] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.09.30.dat
+[20:09:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:09:31] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:09:33] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:09:40] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 63, -59, 564, minecraft:overworld
+[20:09:42] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:09:42] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.09.42.dat
+[20:09:42] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:09:42] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:09:44] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:09:44] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:09:45] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:09:51] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 64, -59, 567, minecraft:overworld
+[20:09:54] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 62, -57, 575, minecraft:overworld
+[20:09:55] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:09:55] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.09.55.dat
+[20:09:57] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:10:00] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 48, -58, 554, minecraft:overworld
+[20:10:04] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:10:04] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.10.04.dat
+[20:10:05] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:10:07] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:10:13] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 56, -56, 546, minecraft:overworld
+[20:10:16] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 57, -57, 552, minecraft:overworld
+[20:10:20] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:10:20] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.10.20.dat
+[20:10:21] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:10:22] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:10:31] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 60, -57, 569, minecraft:overworld
+[20:10:35] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:10:35] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.10.35.dat
+[20:10:36] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:10:38] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:10:45] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 60, -57, 551, minecraft:overworld
+[20:10:51] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:10:51] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.10.51.dat
+[20:10:52] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:10:53] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:11:00] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 65, -50, 546, minecraft:overworld
+[20:11:06] [Server thread/INFO]: chocolinpy was slain by Void Blossom
+[20:11:06] [Server thread/INFO]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_24.08.2025-20.11.06.dat
+[20:11:07] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of chocolinpy accepted server config.
+[20:11:08] [Server thread/INFO]: [chocolinpy: Teleported chocolinpy to Fabrioreos]
+[20:11:16] [Server thread/INFO]: chocolinpy claimed a grave belonging to chocolinpy at 56, -52, 547, minecraft:overworld
+[20:12:29] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:12:29] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.12.29.dat
+[20:12:30] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:12:37] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 66, -58, 569, minecraft:overworld
+[20:12:39] [Server thread/INFO]: Fabrioreos was killed trying to hurt Void Blossom
+[20:12:39] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.12.39.dat
+[20:12:39] [Netty Epoll Server IO #7/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20:12:39] [Netty Epoll Server IO #7/ERROR]: Combo count: 0 is dual wielding: false
+[20:12:39] [Netty Epoll Server IO #7/ERROR]: Main-hand stack: 0 air
+[20:12:39] [Netty Epoll Server IO #7/ERROR]: Off-hand stack: 0 air
+[20:12:39] [Netty Epoll Server IO #7/ERROR]: Selected slot server: 2 | client: 2
+[20:12:42] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:12:50] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 69, -59, 565, minecraft:overworld
+[20:12:58] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:12:58] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.12.58.dat
+[20:13:00] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
+[20:13:07] [Server thread/INFO]: Fabrioreos claimed a grave belonging to Fabrioreos at 71, -58, 556, minecraft:overworld
+[20:13:12] [Server thread/INFO]: Villager class_1646['Kimberley'/109718, l='ServerLevel[world]', x=123.65, y=-46.00, z=547.01] died, message: 'Kimberley was slain by Ghoul'
+[20:13:12] [Server thread/INFO]: Named entity class_1646['Kimberley'/109718, l='ServerLevel[world]', x=123.65, y=-46.00, z=547.01] died: Kimberley was slain by Ghoul
+[20:13:16] [Server thread/INFO]: Fabrioreos was slain by Void Blossom
+[20:13:16] [Server thread/INFO]: Created new backpack backup file for Fabrioreos with unique ID travelersbackpack.standard_24.08.2025-20.13.16.dat
+[20:13:17] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
