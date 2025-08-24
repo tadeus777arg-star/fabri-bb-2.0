@@ -529,16 +529,20 @@
       "mauve_hills": "2025-08-24 04:02:49 +0000",
       "shrubland": "2025-08-24 02:38:28 +0000",
       "dry_bushland": "2025-08-24 03:49:15 +0000",
+      "pine_taiga": "2025-08-24 18:10:52 +0000",
       "marsh": "2025-08-24 03:40:34 +0000",
       "barley_fields": "2025-08-24 04:08:28 +0000",
+      "poppy_fields": "2025-08-24 18:08:15 +0000",
       "grassy_beach": "2025-08-24 02:01:51 +0000",
       "rocky_meadow": "2025-08-24 02:31:34 +0000",
       "flower_fields": "2025-08-24 04:06:46 +0000",
       "magnolia_highlands": "2025-08-24 02:31:35 +0000",
       "eucalyptus_forest": "2025-08-24 03:58:33 +0000",
       "outback": "2025-08-24 03:58:24 +0000",
+      "sparse_redwoods": "2025-08-24 18:13:43 +0000",
       "deciduous_forest": "2025-08-24 04:08:47 +0000",
       "towering_cliffs": "2025-08-24 03:40:21 +0000",
+      "chalk_cliffs": "2025-08-24 18:13:38 +0000",
       "bamboo_forest": "2025-08-24 03:41:00 +0000",
       "saguaro_desert": "2025-08-24 03:50:50 +0000",
       "temperate_grove": "2025-08-24 01:06:32 +0000",
@@ -553,16 +557,20 @@
       "mauve_hills": "2025-08-24 04:02:49 +0000",
       "shrubland": "2025-08-24 02:38:28 +0000",
       "dry_bushland": "2025-08-24 03:49:15 +0000",
+      "pine_taiga": "2025-08-24 18:10:52 +0000",
       "marsh": "2025-08-24 03:40:34 +0000",
       "barley_fields": "2025-08-24 04:08:28 +0000",
+      "poppy_fields": "2025-08-24 18:08:15 +0000",
       "grassy_beach": "2025-08-24 02:01:51 +0000",
       "rocky_meadow": "2025-08-24 02:31:34 +0000",
       "flower_fields": "2025-08-24 04:06:46 +0000",
       "magnolia_highlands": "2025-08-24 02:31:35 +0000",
       "eucalyptus_forest": "2025-08-24 03:58:33 +0000",
       "outback": "2025-08-24 03:58:24 +0000",
+      "sparse_redwoods": "2025-08-24 18:13:43 +0000",
       "deciduous_forest": "2025-08-24 04:08:47 +0000",
       "towering_cliffs": "2025-08-24 03:40:21 +0000",
+      "chalk_cliffs": "2025-08-24 18:13:38 +0000",
       "bamboo_forest": "2025-08-24 03:41:00 +0000",
       "saguaro_desert": "2025-08-24 03:50:50 +0000",
       "temperate_grove": "2025-08-24 01:06:32 +0000",
@@ -2923,6 +2931,7 @@
       "minecraft:snowy_slopes": "2025-08-24 17:58:44 +0000",
       "minecraft:deep_ocean": "2025-08-24 02:58:37 +0000",
       "minecraft:sunflower_plains": "2025-08-24 03:29:40 +0000",
+      "minecraft:cherry_grove": "2025-08-24 18:09:07 +0000",
       "minecraft:wooded_badlands": "2025-08-24 03:58:53 +0000",
       "minecraft:beach": "2025-08-24 01:35:56 +0000",
       "minecraft:mangrove_swamp": "2025-08-24 03:40:32 +0000",
@@ -2937,6 +2946,7 @@
       "minecraft:jungle": "2025-08-24 17:57:14 +0000",
       "minecraft:windswept_savanna": "2025-08-24 03:34:45 +0000",
       "minecraft:flower_forest": "2025-08-24 04:07:08 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-24 18:10:50 +0000",
       "minecraft:meadow": "2025-08-24 17:58:02 +0000",
       "minecraft:savanna": "2025-08-24 03:34:44 +0000",
       "minecraft:plains": "2025-08-24 02:23:24 +0000"
@@ -4135,6 +4145,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-08-24 05:21:46 +0000",
+      "apple": "2025-08-24 18:06:48 +0000",
       "bread": "2025-08-24 01:18:15 +0000",
       "golden_apple": "2025-08-24 17:07:55 +0000"
     },
@@ -8718,6 +8729,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-08-24 18:12:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-08-24 17:55:52 +0000"
@@ -8766,6 +8789,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-08-24 18:12:09 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 17:59:05 +0000"
@@ -8778,9 +8807,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2025-08-24 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_lantern": {
+    "criteria": {
+      "has_andesite_slab": "2025-08-24 18:09:46 +0000"
     },
     "done": true
   },
@@ -8796,15 +8849,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-08-24 18:12:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/red_dye_from_fire_coral": {
     "criteria": {
       "has_fire_coral": "2025-08-24 17:55:48 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-24 18:09:52 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 17:59:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-08-24 18:02:53 +0000"
     },
     "done": true
   },
@@ -8820,9 +8909,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-08-24 18:02:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
     },
     "done": true
   },
@@ -8838,6 +8945,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 17:59:05 +0000"
@@ -8847,6 +8960,15 @@
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
       "has_apple": "2025-08-24 17:56:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-08-24 18:02:53 +0000",
+      "silicon": "2025-08-24 18:02:53 +0000",
+      "engineering": "2025-08-24 18:02:53 +0000",
+      "logic": "2025-08-24 18:02:53 +0000"
     },
     "done": true
   },
@@ -8865,6 +8987,12 @@
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-08-24 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
     },
     "done": true
   },
@@ -8892,6 +9020,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite_slab": "2025-08-24 18:09:58 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/copper_tea_kettle": {
     "criteria": {
       "has_copper_ingot": "2025-08-24 17:55:52 +0000"
@@ -8904,9 +9038,63 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-24 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 18:09:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2025-08-24 17:56:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
     },
     "done": true
   },
@@ -8928,6 +9116,72 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-08-24 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-08-24 18:00:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-08-24 18:00:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-08-24 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-24 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-08-24 17:30:09 +0000"
@@ -8937,6 +9191,12 @@
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-08-24 18:02:14 +0000"
     },
     "done": true
   },
@@ -8958,9 +9218,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 18:09:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-08-24 18:12:09 +0000"
     },
     "done": true
   },
@@ -8970,9 +9254,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-08-24 18:02:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2025-08-24 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 17:59:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
     },
     "done": true
   },
@@ -8991,6 +9305,12 @@
   "botania:recipes/misc/petal_gray": {
     "criteria": {
       "has_item": "2025-08-24 17:35:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-24 18:09:52 +0000"
     },
     "done": true
   },
@@ -9018,6 +9338,24 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-08-24 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-08-24 18:02:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-08-24 17:55:52 +0000"
@@ -9027,6 +9365,24 @@
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-08-24 18:08:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-08-24 18:02:14 +0000"
     },
     "done": true
   },
@@ -9066,6 +9422,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-08-24 18:02:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-08-24 17:55:52 +0000"
@@ -9075,6 +9437,36 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-08-24 18:08:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-08-24 18:12:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-08-24 18:12:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
     },
     "done": true
   },
@@ -9090,6 +9482,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-08-24 17:59:05 +0000"
@@ -9102,15 +9500,40 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
     "criteria": {
       "has_copper": "2025-08-24 17:55:52 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_2": "2025-08-24 18:05:53 +0000",
+      "crit_1": "2025-08-24 18:12:09 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
     },
     "done": true
   },
@@ -9126,6 +9549,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-08-24 18:02:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-08-24 18:08:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-08-24 18:02:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_lava_bucket": {
     "criteria": {
       "has_lava_bucket": "2025-08-24 17:17:46 +0000"
@@ -9138,15 +9579,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-24 18:05:53 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-08-24 17:56:02 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-24 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-08-24 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-08-24 18:11:25 +0000"
     },
     "done": true
   },

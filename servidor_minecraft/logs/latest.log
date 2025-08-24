@@ -2188,3 +2188,57 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [17:54:13] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-424, y=-40, z=1513}
 [17:54:13] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-424, y=-40, z=1512}
 [17:56:02] [Server thread/INFO]: chocolinpy has made the advancement [Forbidden Fruit]
+[18:02:18] [Server thread/WARN]: chocolinpy moved wrongly!
+[18:02:21] [Server thread/INFO]: <Fabrioreos> Zzz
+[18:02:32] [Server thread/INFO]: <chocolinpy> ahhh
+[18:02:53] [Server thread/INFO]: chocolinpy has made the advancement [Unknown Technology]
+[18:07:03] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[18:07:59] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.6380615f,range:8,source:{pos:[I;-153,-58,-371],type:"minecraft:block"}}]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.802702f,range:8,source:{pos:[I;-154,-53,-378],type:"minecraft:block"}}]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.527325f,range:8,source:{pos:[I;-153,-53,-374],type:"minecraft:block"}}]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:1.0f,range:8,source:{pos:[I;-152,-53,-371],type:"minecraft:block"}}]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.061569f,range:8,source:{pos:[I;-152,-53,-370],type:"minecraft:block"}}]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.152014f,range:8,source:{pos:[I;-157,-51,-371],type:"minecraft:block"}}]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.3484693f,range:8,source:{pos:[I;-170,-58,-380],type:"minecraft:block"}}]
+[18:10:47] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.7416575f,range:8,source:{pos:[I;-170,-57,-377],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.3052635f,range:8,source:{pos:[I;-160,-52,-370],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.5970345f,range:8,source:{pos:[I;-187,-59,-379],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.3011737f,range:8,source:{pos:[I;-180,-59,-376],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-22/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.063859f,range:8,source:{pos:[I;-175,-59,-379],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.8740077f,range:8,source:{pos:[I;-150,-54,-359],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.660372f,range:8,source:{pos:[I;-158,-53,-362],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.826741f,range:8,source:{pos:[I;-154,-53,-365],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-158,-48,-366],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-174,-59,-369],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-59,-356],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.9118114f,range:8,source:{pos:[I;-160,-49,-366],type:"minecraft:block"}}]
+[18:10:48] [Worker-Main-63/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-178,-59,-363],type:"minecraft:block"}}]
+[18:13:08] [Server thread/INFO]: Fabrioreos lost connection: Disconnected
+[18:13:08] [Server thread/INFO]: Fabrioreos left the game
+[18:13:08] [Server thread/INFO]: remove player wand
+[18:13:08] [Server thread/INFO]: Updating all forceload tickets for 7d4ac431-ff3f-3f0b-8be5-35cee69540cb
+[18:14:26] [Server thread/INFO]: [EMI] chocolinpy deleted 1 MaterialItem[engineering_processor_press]
+[18:15:22] [Server thread/INFO]: [Handshake] Sending channel query
+[18:15:22] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[18:15:22] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[18:15:22] [Server thread/INFO]: Fabrioreos[/10.147.20.213:50140] logged in with entity id 51762 at (216.2189366516787, 64.0, 946.5562486644193)
+[18:15:22] [Server thread/INFO]: Sending server config values to client
+[18:15:22] [Server thread/INFO]: Syncing config to Fabrioreos (7d4ac431-ff3f-3f0b-8be5-35cee69540cb)
+[18:15:22] [Server thread/INFO]: Loading config from file...
+[18:15:23] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[18:15:23] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:15:23] [Server thread/INFO]: Fabrioreos joined the game
+[18:15:23] [Server thread/INFO]: Loading Configs for Sortilege
+[18:15:23] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[18:15:23] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[18:15:23] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[18:15:23] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:15:23] [Server thread/INFO]: Updating all forceload tickets for 7d4ac431-ff3f-3f0b-8be5-35cee69540cb
+[18:15:23] [Server thread/INFO]: PLAYER_JOIN
+[18:15:23] [Server thread/INFO]: add_player wand
+[18:15:23] [Server thread/INFO]: config sent
+[18:15:24] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[18:15:28] [Netty Epoll Server IO #7/INFO]: Channel update: Fabrioreos -> default
+[18:15:28] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Fabrioreos. Claiming: GRAVE / Robbing: INVENTORY
+[18:15:31] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Fabrioreos accepted server config.
